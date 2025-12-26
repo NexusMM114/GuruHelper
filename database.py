@@ -1,0 +1,9 @@
+warns = {}
+filters = {}
+blacklist = set()
+locks = set()
+flood = {}
+rules = "Rules not set."
+welcome = None
+goodbye = None
+disabled = set()
